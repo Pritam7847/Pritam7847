@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Pritam Anand
-- 👀 I’m interested in ...Tech
-- 🌱 I’m currently learning ...JavaScript(WebDev)
-- 📫 InstaHandle ... @_himanshu._.singh_
-- 📫 Email ... himanshusingh7847@gmail.com
-- ⚡ Fun fact: ...I'm a good advisor for buying Tech Stuff
+👋 Hi, I’m Pritam Anand
+
+💻 I’m a Full Stack Developer passionate about building web applications
+
+👀 Currently exploring the world of Tech & Startups
+
+🌱 Learning and growing Daily with JavaScript & Web Development
+
+📫 Instagram: @himanshu._.singh_
+
+📧 Email: himanshusingh7847@gmail.com
 
 <!---
 Pritam7847/Pritam7847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
