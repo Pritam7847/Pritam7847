@@ -4,7 +4,7 @@
 
 👀 Currently exploring the world of Tech & Startups
 
-🌱 Learning and growing Daily with JavaScript & Web Development
+🌱 Learning and growing Daily with React & WebDEv
 
 📫 Instagram: @himanshu._.singh_
 
